@@ -6,7 +6,7 @@
       dark
     >
       <div class="d-flex align-center">
-        Curso DEV Fullstack
+        Dev2Me - Formação Fullstack (2 Edição)
       </div>
 
       <v-spacer></v-spacer>

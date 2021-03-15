@@ -6,24 +6,43 @@
     lazy-validation
   >
     <template>
-    <div>
-      <v-card
-        class="d-flex align-center justify-center pa-4 mx-auto"
-        outlined
-      >
-        <div>
-          Todo mundo sabe que trabalhar com tecnologia é uma ótima opção de carreira, que é um segmento que só cresce e que tende a crescer cada vez mais. Mas o que nem sempre se sabe é COMO se posicionar nesse mercado, COMO conseguir experiência que traga um diferencial para um profissional que é recém-formado ou que está migrando de carreira.
-      Ministro aulas no ensino superior de computação há 10 anos, porém percebo que a necessidade do mercado é imediata, pra equipes de desenvolvimento que precisavam de profissionais de alta performance.
-      Por isso, resolvi criar um curso para desenvolvedores, onde vou ensinar o pessoal que está começando (ou migrando de carreira), tudo que eles precisam saber na prática, pra se posicionarem bem no mercado de tecnologia. Durante um mês, todos os dias, nós vamos trabalhar juntos para desenvolver habilidades em tecnologias como Java, Spring Boot, Maven, Postgres, Javascript, Vuejs, Vuetify, Nodejs, Github. Estes são itens que vamos praticar e criar novos projetos.
-      Quem tiver interesse, só me chamar no privado.<br><br>
-      Corre lá, são apenas 20 vagas. <br><br>
-      Lembrando que irei encaminhar os melhores 5 classificados para algumas empresas. <br><br>
-      O curso tem o investimento de 50 reais para comprometimento e presença do aluno. <br><br>
-      Início do curso 22/03 e término 16/04, aulas online segunda, quarta e sexta das 13 as 14 (Terça e quinta monitoria de código) <br><br>
-      #soudev #java #springboot #vuejs #javascript #googlecloud #firebase
+      <div class="caption q-py-sm">
+        <div class="wrapper__box">
+            <div>
+                <div class="text-h6">Dev2Me</div>
+
+                <p>Curso prático para desenvolvedores iniciantes, totalmente hand-ons (Dev mão na massa).</p>
+
+                <div class="text-h6">Objetivo do curso</div>
+
+                <p>Esse curso visa desenvolver habilidades práticas em Java e Javascript além de frameworks comumente usados em equipes de desenvolvimento. Oferecendo conhecimento e vivência prática, o nosso objetivo é encaminhar os alunos mais bem colocados para vagas em empresas parceiras. </p>
+
+                <div class="text-h6">Pra quem é?</div>
+
+                <p>Para quem está entrando no mercado de trabalho agora. Tanto recém formados ou pessoas que estão migrando de área e querem ter uma vivência prática.</p>
+
+                <div class="text-h6">Ementa</div>
+
+                <p>Desenvolver habilidades práticas para trabalhar com Java, Spring Boot, Maven, Postgres, Javascript, Vuejs, Vuetify, JQuery, Nodejs, Firebase, Firestore, Firebase Hosting. Github. Estes são itens que vamos praticar e criar novos projetos.</p>
+
+                <div class="text-h6">Como serão as aulas?</div>
+
+                <p>As aulas começam na segunda dia 22/03. Elas acontecem todos os dias, das 13 às 14h.
+                  Segundas, quartas e sextas teremos aulas teóricas/práticas juntos. Nas terças e quintas, faremos a monitoria de código.
+                  A conclusão do curso está prevista para 16/04.
+                </p>
+
+                <div class="text-h6">Investimento</div>
+
+                <p>Estamos cobrando o valor simbólico de R$ 50 por inscrição, para a reserva da vaga e registro do comprometimento do aluno com o curso.</p>
+
+                <div class="text-h6">Como se inscrever?</div>
+
+                <p>Preencha o formulário abaixo com os seus dados: </p>
+
+            </div>
         </div>
-      </v-card>
-    </div>
+      </div>
     </template>
 
     <v-text-field
