@@ -15,7 +15,7 @@
 
                 <div class="text-h6">Objetivo do curso</div>
 
-                <p>Esse curso visa desenvolver habilidades práticas em Java e Javascript além de frameworks comumente usados em equipes de desenvolvimento. Oferecendo conhecimento e vivência prática, o nosso objetivo é encaminhar os alunos mais bem colocados para vagas em empresas parceiras. </p>
+                <p>Esse curso visa desenvolver habilidades práticas em Java e Javascript além de frameworks comumente usados em equipes de desenvolvimento. Oferecendo conhecimento e vivência prática, o nosso objetivo é encaminhar os alunos mais bem colocados para vagas em empresas parceiras (5 possíveis vagas). </p>
 
                 <div class="text-h6">Pra quem é?</div>
 
@@ -23,7 +23,7 @@
 
                 <div class="text-h6">Ementa</div>
 
-                <p>Desenvolver habilidades práticas para trabalhar com Java, Spring Boot, Maven, Postgres, Javascript, Vuejs, Vuetify, JQuery, Nodejs, Firebase, Firestore, Firebase Hosting. Github. Estes são itens que vamos praticar e criar novos projetos.</p>
+                <p>Desenvolver habilidades práticas para trabalhar com Java, Spring Boot, Maven, Postgres, Javascript, Vuejs, Vuetify, JQuery, Nodejs, Google Cloud, Firebase, Firestore, Firebase Hosting, Github. Estes são itens que vamos praticar e criar novos projetos.</p>
 
                 <div class="text-h6">Como serão as aulas?</div>
 
@@ -34,7 +34,7 @@
 
                 <div class="text-h6">Investimento</div>
 
-                <p>Estamos cobrando o valor simbólico de R$ 50 por inscrição, para a reserva da vaga e registro do comprometimento do aluno com o curso.</p>
+                <p>Estamos cobrando o valor simbólico de R$ 100 por inscrição, para a reserva da vaga e registro do comprometimento do aluno com o curso.</p>
 
                 <div class="text-h6">Como se inscrever?</div>
 
