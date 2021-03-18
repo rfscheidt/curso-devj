@@ -136,6 +136,7 @@ export default {
     }
   },
   created () {
+    // StudentService.list()
   }
 }
 </script>
